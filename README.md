@@ -10,6 +10,10 @@
 * [Tornado]()：异步web框架
 * [CSV](https://github.com/lianglu1024/helloworld/blob/master/python/python%E5%BA%93/csv.md)：操作csv文件
 * [pdfminer](https://github.com/lianglu1024/helloworld/blob/master/python/python%E5%BA%93/pdfminer.md)：操作pdf文件
+### 设计模式
+
+* [动态代理](src/design_pattern/5.代理模式.md)
+
 ### :coffee:Java
 
 * [多态特性](https://gitee.com/liangbyebye/HelloWorld/blob/master/src/java/java%E8%AF%AD%E6%B3%95/%E5%A4%9A%E6%80%81%E7%89%B9%E6%80%A7.md)

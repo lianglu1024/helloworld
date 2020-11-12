@@ -13,6 +13,7 @@
 ### 设计模式
 
 * [动态代理](src/design_pattern/5.代理模式.md)
+* [责任链模式](src/design_pattern/8.责任链模式.md)
 
 ### :coffee:Java
 

@@ -19,6 +19,11 @@
 
 * [多态特性](https://gitee.com/liangbyebye/HelloWorld/blob/master/src/java/java%E8%AF%AD%E6%B3%95/%E5%A4%9A%E6%80%81%E7%89%B9%E6%80%A7.md)
 * [泛型](https://gitee.com/liangbyebye/HelloWorld/blob/master/src/java/java%E8%AF%AD%E6%B3%95/24.%E6%B3%9B%E5%9E%8B.md)
+* [可变参数](src/java/basic/java可变长参数.md)
+
+### :factory:Spring
+
+* [Spring快速入门](src/Spring/spring/1.快速入门.md)
 
 ### :battery:补充知识
 * [vim的基本操作](https://github.com/lianglu1024/helloworld/blob/master/%E8%A1%A5%E5%85%85%E7%9F%A5%E8%AF%86/vim%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C.md)

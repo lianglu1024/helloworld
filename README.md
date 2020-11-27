@@ -23,7 +23,7 @@
 
 ### :factory:Spring
 
-* [Spring快速入门](src/Spring/spring/1.快速入门.md)
+* [Spring快速入门](src/spring/spring/1.快速入门.md)
 
 ### :battery:补充知识
 * [vim的基本操作](https://github.com/lianglu1024/helloworld/blob/master/%E8%A1%A5%E5%85%85%E7%9F%A5%E8%AF%86/vim%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C.md)
